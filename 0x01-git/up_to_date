@@ -26,3 +26,4 @@ cd 0x01-git
 echo ‘My second readme’ >README.md
 cat README.md
 git add .
+git pull
