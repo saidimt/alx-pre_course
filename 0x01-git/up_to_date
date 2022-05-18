@@ -1,0 +1,28 @@
+cd /root
+touch so_cool
+cd /root
+cp school /tmp
+cd /root
+mv old_school new_school
+cd /root
+mv not_here /tmp/right_school
+cd /root
+rm ready_to_be_removed
+cd /root
+mkdir school_is_amazing
+/root
+rm -r empty_directory
+git clone https://(your personal access code)@github.com/(your username)/alx-pre_course.git
+cd alx-pre_course/
+echo ‘My first readme’ > README.md
+cat README.md
+git config —global user.email “(your registered email)”
+git config —global user.name “(your username)”
+git add .
+git commit -m ‘My first commit’
+git push
+mkdir 0x01-git
+cd 0x01-git
+echo ‘My second readme’ >README.md
+cat README.md
+git add .
